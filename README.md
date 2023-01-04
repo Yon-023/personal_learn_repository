@@ -4,7 +4,7 @@
 
 ---
 
-#### 图像去噪、去模糊、图像增强
+#### 1、图像去噪、去模糊、图像增强
 NAFNet: Nonlinear Activation Free Network for Image Restoration  
 
 链接：https://github.com/megvii-research/NAFNet  
